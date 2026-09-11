@@ -19,6 +19,7 @@
 - [I'm told that I have a "conflict." What should I do?](#conflict)
 - [I don't seem to be able to push. What should I do?](force-push)
 - [Where can I find out more?](#more)
+- [Learning is A GOOD THING](#learn)
 
 ---
 
@@ -437,3 +438,7 @@ Note: There is a way to over-ride this error messinge. DO NOT USE IT. If you wer
 Note: There is a way to over-ride this error message. DO NOT USE IT. If you were to do a so-called "force-push," you would be forcing the remote version of the repository to look _exactly_ like your local copy, _including the commit history._ This could include deleting files that are on the remote repo, but not pulled to your local copy, that someone else is working on. Force-push should only be used if you really know what what you're doing, and are the project leader and repo admin. If you think you need to force push, open an issue and discuss it with your collaborators first.
 
 [Back to the tippety-top.](#top)
+
+
+#### <a name="learn"></a>Learning is A GOOD THING!
+I learned that merge conflicts are fine. Typos are annoying if you purposely add a few of them.
